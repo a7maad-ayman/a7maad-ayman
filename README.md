@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ahmad Ayman Mansour</h1>
 <h3 align="center">Jr iOS dev , Software Engineer</h3>
 
-- 🔭 I’m currently **Taking an iOS bootcamp , brute force problems on (codeForces , LeetCode)**
-
 - 📫 How to reach me **a7maad.ayman@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
